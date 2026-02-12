@@ -121,7 +121,7 @@ SQLite databases are simple files; no server is required to use a SQLite databas
 
 <details><summary>Expand if you're using PostgreSQL, MySQL, MsSQL or Azure SQL</summary>
 
-With PostgreSQL and MySQL, you need to configure the connection URL to point to the _database server_. You can learn more about the required connection URL format [here](https://www.prisma.io/docs/reference/database-reference/connection-urls).
+With PostgreSQL and MySQL, you need to configure the connection URL to point to the _database server_. You can learn more about the required connection URL format [here](https://www.prisma.io/docs/orm/reference/connection-urls).
 
 **PostgreSQL**
 
